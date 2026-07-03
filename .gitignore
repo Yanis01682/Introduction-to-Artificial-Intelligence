@@ -1,0 +1,12 @@
+exam/
+IAI_2022/
+lab/
+
+**/.git/
+**/.vscode/
+__pycache__/
+*.pyc
+
+.DS_Store
+Thumbs.db
+desktop.ini
