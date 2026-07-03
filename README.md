@@ -13,7 +13,7 @@ Lab 3 was replaced by the Antwar course-competition assignment. The related proj
 - `Labs/Lab2-Sentiment-Classification/`: sentiment classification lab, including source code, dataset, word-vector file, assignment file, and report.
 - `Labs/Lab3-Antwar.md`: redirect note for the Antwar replacement assignment.
 
-Original submitted PDFs with personal identifiers are omitted; anonymized Markdown reports are kept instead.
+Original submitted PDFs with personal identifiers are omitted; anonymized Markdown reports are kept instead. Large corpus archives referenced by assignment PDFs are documented but not committed.
 
 ## 中文说明
 
@@ -23,4 +23,4 @@ Original submitted PDFs with personal identifiers are omitted; anonymized Markdo
 
 Lab 3 由智能体大赛 Antwar 作业替代，相关工程单独放在 [Yanis01682/Ant-Game](https://github.com/Yanis01682/Ant-Game)。
 
-带个人信息的提交 PDF 没有收录，仓库中保留的是匿名化后的 Markdown 报告。
+带个人信息的提交 PDF 没有收录，仓库中保留的是匿名化后的 Markdown 报告。作业 PDF 中云盘链接提供的大型语料只保留说明，不直接提交到仓库。
